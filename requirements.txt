@@ -1,3 +1,0 @@
-glfw
-imgui[glfw]
-screeninfo

@@ -1,0 +1,29 @@
+{
+  "name": "critter",
+  "version": "0.1.0",
+  "description": "AWS CRT Log Tooling",
+  "main": "dist/index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^13.13.5",
+    "typescript": "^3.8.3"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justinboswell/critter.git"
+  },
+  "keywords": [
+    "aws",
+    "crt",
+    "log"
+  ],
+  "author": "justin.boswell@gmail.com",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/justinboswell/critter/issues"
+  },
+  "homepage": "https://github.com/justinboswell/critter#readme"
+}
